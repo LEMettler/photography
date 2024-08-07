@@ -1,6 +1,6 @@
 # Selected Photography
 
-**Digial**\
+**Digital**\
 Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 
 **Film**\
