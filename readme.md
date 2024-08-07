@@ -17,8 +17,11 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
         <img src="./src/analog-flowers/_MG_6096.jpg" width="23%"/>
     </p>
 <details>
-  <summary style="font-size: 24px; font-weight: bold;"> Analog flowers
-  </summary>
+<summary>
+  
+  ## Analog flowers
+  
+</summary>
 
   <p align="center">
     <img src="./src/analog-flowers/_MG_6090.jpg" 
@@ -59,8 +62,11 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
     </p>
 
 <details>
-  <summary style="font-size: 24px; font-weight: bold;"> B/W
-  </summary>
+<summary> 
+  
+  ## B/W
+  
+</summary>
 
 
   <p align="center">
@@ -119,8 +125,11 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
         <img src="./src/greens/_MG_6494.jpg" width="23%"/>
     </p>
 <details>
-  <summary style="font-size: 24px; font-weight: bold;"> Green
-  </summary>
+<summary >
+  
+  ## Green
+  
+</summary>
 
 
 Digital...
@@ -170,9 +179,11 @@ Digital...
         <img src="./src/redsblues/_MG_6620.jpg" width="23%"/>
     </p>
 <details>
-  <summary style="font-size: 24px; font-weight: bold;"> 
-  Reds and Blues
-  </summary>
+<summary > 
+
+## Reds and Blues
+
+</summary>
 
 
   <p align="center">
@@ -284,9 +295,11 @@ Digital...
         <img src="./src/misc/_MG_6082.jpg" width="23%"/>
     </p>
 <details>
-  <summary style="font-size: 24px; font-weight: bold;"> 
-  Others
-  </summary>
+<summary> 
+
+## Others
+
+</summary>
 
   <p align="center">
     <img src="./src/redsblues/_MG_6590.jpg" 
