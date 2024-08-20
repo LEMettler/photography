@@ -9,6 +9,11 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 
 ---
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!--                                       FLOWER                                                 -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
 
 <div style="text-align: center;">
     <p>
@@ -51,6 +56,9 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 
 ----------------------------------
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!--                                       B/W                                                    -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
 
 
@@ -67,6 +75,16 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
   ## B/W
   
 </summary>
+
+  <p align="center">
+    <img src="./src/bw/_MG_7000.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/bw/_MG_6817.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
 
 
   <p align="center">
@@ -116,6 +134,9 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 ----------------------
 
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!--                                       GREEN                                                  -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
 
 <div style="text-align: center;">
@@ -169,6 +190,9 @@ Digital...
 
 
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!--                                       REDS AND BLUES                                         -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
 
 
@@ -223,11 +247,6 @@ Digital...
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
-  
-  <p align="center">
-    <img src="./src/redsblues/_MG_6365.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
 
   
   <p align="center">
@@ -247,33 +266,34 @@ Digital...
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
-
-  <p align="center">
-    <img src="./src/redsblues/_MG_6434.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
-
-
   <p align="center">
     <img src="./src/redsblues/_MG_6260.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
-
-
-  <p align="center">
-    <img src="./src/redsblues/_MG_6495.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
-
 
   <p align="center">
     <img src="./src/redsblues/_MG_5621.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
-
   <p align="center">
     <img src="./src/redsblues/_MG_6322.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+  
+
+  <p align="center">
+    <img src="./src/redsblues/_MG_6434.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/redsblues/_MG_6495.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/redsblues/_MG_6365.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
@@ -285,6 +305,9 @@ Digital...
 
 ----------------------------------
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!--                                       MISC                                                   -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
 
 
@@ -300,6 +323,16 @@ Digital...
 ## Others
 
 </summary>
+
+  <p align="center">
+    <img src="./src/misc/_MG_6948.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+  
+  <p align="center">
+    <img src="./src/misc/IMG_2208.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
 
   <p align="center">
     <img src="./src/redsblues/_MG_6590.jpg" 
