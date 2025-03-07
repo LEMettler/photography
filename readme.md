@@ -76,16 +76,6 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
   
 </summary>
 
-  <p align="center">
-    <img src="./src/bw/_MG_7000.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
-
-  <p align="center">
-    <img src="./src/bw/_MG_6817.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
-
 
   <p align="center">
     <img src="./src/bw/_MG_5581.jpg" 
@@ -141,8 +131,8 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 
 <div style="text-align: center;">
     <p>
-        <img src="./src/greens/_MG_6114.jpg" width="23%"/>
-        <img src="./src/greens/_MG_6220.jpg" width="23%"/>
+        <img src="./src/greens/greenhouse/_MG_7933.jpg" width="23%"/>
+        <img src="./src/greens/greenhouse/_MG_7911.jpg" width="23%"/>
         <img src="./src/greens/_MG_6494.jpg" width="23%"/>
     </p>
 <details>
@@ -154,6 +144,34 @@ Canon EOS 1300D with a 50mm f/1.8 and 18-55mm f/3.5-5.6.
 
 
 Digital...
+
+  <p align="center">
+    <img src="./src/greens/greenhouse/_MG_7939.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+
+  <p align="center">
+    <img src="./src/greens/greenhouse/_MG_7911.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/greens/greenhouse/_MG_7918.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/greens/greenhouse/_MG_7924.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/greens/greenhouse/_MG_7933.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+
   <p align="center">
     <img src="./src/greens/_MG_6494.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
@@ -166,21 +184,12 @@ Digital...
   </p>
 
   
-  <p align="center">
-    <img src="./src/greens/_MG_6234.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
-
 
   <p align="center">
     <img src="./src/greens/_MG_6114.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
-  <p align="center">
-    <img src="./src/greens/_MG_6220.jpg" 
-    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
-  </p>
 
 
 </details>
@@ -357,6 +366,16 @@ Digital...
 
   <p align="center">
     <img src="./src/misc/_MG_6082.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+  
+    <p align="center">
+    <img src="./src/bw/_MG_7000.jpg" 
+    style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
+  </p>
+
+  <p align="center">
+    <img src="./src/bw/_MG_6817.jpg" 
     style="border: 1px solid; border-radius: 8px; padding: 10px; width: 100%;">
   </p>
 
