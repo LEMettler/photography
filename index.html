@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="neutral">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Photography</title>
+  <link rel="stylesheet" href="resources/styles.css">
+  <link rel="stylesheet" href="resources/gallery-styles.css">
+  <script src="resources/theme-script.js"></script>
+  <script src="resources/gallery-script.js"></script>
+  <link rel="icon" href="resources/favicon-16x16.png" type="favicon-16x16.png" /> 
+</head>
+
+<body>
+
+<div class="container">
+<div class="content">
+
+    <div class="typewriter">
+    <h1>Photography</h1>
+    </div>
+    
+    <script>
+    // make sure html is parsed and we can safely preload
+    document.addEventListener("DOMContentLoaded", function () {
+    // load image data and preload a project
+    projectData = {
+      "greenhouse": {
+        "count": 6,
+        "columns": 3,
+        "description": "<h3>Greenhouse</h3>"
+      },
+      "analog-flowers": {
+        "count": 4,
+        "columns": 2,
+        "description": "<h3>Analog Flowers</h3>"
+      },
+      "blackforest": {
+        "count": 2,
+        "columns": 2,
+        "description": "<h3>Blackforest</h3>"
+      },
+      "bw-planar": {
+        "count": 4,
+        "columns": 2,
+        "description": "<h3>B/W Planar</h3>"
+      },
+      "industrial-a": {
+        "count": 4,
+        "columns": 2,
+        "description": "<h3>Industrial a</h3>"
+      },
+
+      "industrial-b": {
+        "count": 6,
+        "columns": 3,
+        "description": "<h3>Industrial b</h3>"
+      },
+      "industrial-typography": {
+        "count": 4,
+        "columns": 2,
+        "description": "<h3>Industrial Typography</h3>"
+      }
+    };
+    loadProject('images', 'greenhouse');
+  });
+</script>
+
+
+    <ul class="horizontal-links">
+      <!-- parameters: folder name, number of images, images per row -->
+      <li><button onclick="loadProject('images', 'greenhouse')">Greenhouse</button></li>  
+      <li><button onclick="loadProject('images', 'analog-flowers')">Analog Flowers</button></li>  
+      <li><button onclick="loadProject('images', 'blackforest')">Blackforest</button></li>  
+    </ul>
+
+    <ul class="horizontal-links">
+      <!-- parameters: folder name, number of images, images per row -->
+      <li><button onclick="loadProject('images', 'bw-planar')">B/W Planar</button></li>  
+      <li><button onclick="loadProject('images', 'industrial-a')">Industrial a</button></li>  
+      <li><button onclick="loadProject('images', 'industrial-b')">Industrial b</button></li>  
+      <li><button onclick="loadProject('images', 'industrial-typography')">Industrial Typography</button></li>  
+    </ul>
+ 
+
+    <div id="image-grid" class="image-grid">
+      <!-- this will hold the images -->
+    </div>
+
+    <div id="project-description" class="project-description"></div>
+
+
+    <!-- modal for full image view -->
+    <div id="modal" class="modal" onclick="closeModal()">
+      <span class="close">&times;</span>
+      <span class="arrow left" onclick="event.stopPropagation(); showNext(-1)">&#10094;</span>
+      <img class="modal-content" id="modal-img">
+      <span class="arrow right" onclick="event.stopPropagation(); showNext(1)">&#10095;</span>
+    </div>
+
+    <p class="copyright-note">&#169 2025 LEMettler. All rights reserved.</p>
+    
+  </div>
+  </div>
+
+  <p class="footer-note">
+    <a href="https://lemettler.github.io/">> Main</a>
+    <br>
+    <a href="https://lemettler.github.io//privacy.html">> Privacy Policy</a>
+  </p>
+            
+</body>
+
+</html>
